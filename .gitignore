@@ -1,0 +1,9 @@
+.DS_Store
+*.dSYM/
+build/
+cmake-build-debug/
+CMakeCache.txt
+CMakeFiles/
+*.o
+a.out
+*.tar.gz
