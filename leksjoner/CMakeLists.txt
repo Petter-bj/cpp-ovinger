@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.26)
-project(sandbox)
+project(leksjoner)
 
 set(CMAKE_CXX_STANDARD 17)
 
