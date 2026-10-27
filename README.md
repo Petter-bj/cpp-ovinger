@@ -15,6 +15,7 @@ cpp/
 ├── oving6/             # innlevering 6 (funksjonsobjekter, tråder, Boost.Asio)
 ├── oving7/             # innlevering 7 (operator overloading: Fraction, mengde)
 ├── oving8/             # innlevering 8 (templates: equal, Pair)
+├── oving9/             # innlevering 9 (STL-algoritmer: find_if, equal, replace_copy_if)
 ├── leksjoner/          # sandkasse: eksempler og notater fra forelesninger
 │   ├── leksjon1/ ... leksjon7/
 │   └── CMakeLists.txt  # auto-target per .cpp-fil (GLOB)
