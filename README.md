@@ -16,6 +16,7 @@ cpp/
 ├── oving7/             # innlevering 7 (operator overloading: Fraction, mengde)
 ├── oving8/             # innlevering 8 (templates: equal, Pair)
 ├── oving9/             # innlevering 9 (STL-algoritmer: find_if, equal, replace_copy_if)
+├── oving10/            # innlevering 10 (spill: SFML, Bullet Physics, imgui)
 ├── leksjoner/          # sandkasse: eksempler og notater fra forelesninger
 │   ├── leksjon1/ ... leksjon7/
 │   └── CMakeLists.txt  # auto-target per .cpp-fil (GLOB)
